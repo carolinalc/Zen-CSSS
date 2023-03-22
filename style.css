@@ -1,0 +1,137 @@
+
+body {
+    background-color:#DCDCDC;
+    justify-content: center;
+}
+
+div.header {
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 10px;
+    width: 75%;
+    margin-inline: 10%;
+    box-shadow: 5px 5px 10px rgb(172, 167, 167);
+}
+
+img {
+    width: 100%;
+}
+
+ 
+/*-------------------------------------------------------------------------------------------------------*/
+
+
+a {
+    color: #FF1493
+    ;
+}
+
+hr{
+    border-top: 1px dashed rgb(192, 190, 190);
+}
+
+h2{
+    font-weight: bolder;
+}
+
+/*-------------------------------------------------------------------------------------------------------*/
+
+    div.side1 {
+        font-weight:bolder;
+        color: gray;   
+        background-color: #ffffff;
+        padding: 10px;
+        border-radius: 10px;
+        width: 25%;
+        margin-inline: 10%;
+        margin-top: 20px;
+        box-shadow: 5px 5px 10px rgb(172, 167, 167);
+    }
+
+    div.side2 {
+        color: gray;   
+        background-color: #ffffff;
+        padding: 10px;
+        border-radius: 10px;
+        width: 25%;
+        margin-inline: 10%;
+        margin-top: 10px;
+        box-shadow: 5px 5px 10px rgb(172, 167, 167);
+    }
+
+    div.side3 {
+        color: gray;   
+        background-color: #ffffff;
+        padding: 10px;
+        border-radius: 10px;
+        width: 25%;
+        margin-inline: 10%;
+        margin-top: 10px;
+        box-shadow: 5px 5px 10px rgb(172, 167, 167);
+     }
+
+
+
+   
+div.r1 {
+    color: gray;   
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 10px;
+    width: 25%;
+    margin-inline: 40%;
+    margin-top: -1180px;
+    box-shadow: 5px 5px 10px rgb(172, 167, 167);
+    width:45%;
+}
+div.r2 {
+    color: gray;   
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 10px;
+    width: 25%;
+    margin-inline: 40%;
+    margin-top: 10px;
+    box-shadow: 5px 5px 10px rgb(172, 167, 167);
+    width:45%;
+}
+
+div.r3 {
+    color: gray;   
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 10px;
+    width: 25%;
+    margin-inline: 40%;
+    margin-top: 10px;
+    box-shadow: 5px 5px 10px rgb(172, 167, 167);
+    width:45%;
+    text-align: right;
+
+}
+div.r4 {
+    color: gray;   
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 10px;
+    width: 25%;
+    margin-inline: 40%;
+    margin-top: 10px;
+    box-shadow: 5px 5px 10px rgb(172, 167, 167);
+    width:45%;
+}
+div.r5 {
+    color: gray;   
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 10px;
+    width: 25%;
+    margin-inline: 40%;
+    margin-top: 10px;
+    box-shadow: 5px 5px 10px rgb(172, 167, 167);
+    width:45%;
+    text-align: right;
+}
+
+
+
